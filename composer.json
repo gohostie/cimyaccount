@@ -1,0 +1,21 @@
+{
+    "name": "gohostie/ci-myaccount",
+    "description": "base ci4 Account profile",
+    "type": "library",
+    "license": "proprietary",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Gohostie\\CiMyaccount\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "s davies"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gohostie/my-account": "^1.0.0"
+    }
+}
