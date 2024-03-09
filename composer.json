@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "gohostie/myaccount": "^1.0.0"
+        "gohostie/cimyaccount": "^1.0.0"
     }
 }
