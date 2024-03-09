@@ -9,6 +9,12 @@
             "Gohostie\\CiMyaccount\\": "src/"
         }
     },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/gohostie/cimyaccount.git"
+        }
+    ],
     "authors": [
         {
             "name": "s davies"
