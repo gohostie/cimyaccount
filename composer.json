@@ -16,6 +16,5 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "gohostie/cimyaccount": "^1.0.0"
     }
 }
