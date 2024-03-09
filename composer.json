@@ -22,5 +22,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "gohostie/cimyaccount": "dev-master"
     }
 }
