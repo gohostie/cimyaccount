@@ -1,5 +1,5 @@
 {
-    "name": "gohostie/ci-myaccount",
+    "name": "gohostie/cimyaccount",
     "description": "base ci4 Account profile",
     "type": "library",
     "license": "proprietary",
@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "gohostie/my-account": "^1.0.0"
+        "gohostie/myaccount": "^1.0.0"
     }
 }
